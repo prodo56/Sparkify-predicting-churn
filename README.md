@@ -4,11 +4,10 @@
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [Project Components](#projectComponents)
-4. [Folder Structure](#folderStructure)
-5. [Feature Engineering](#featureEngineering)
-6. [Modelling](#model)
-7. [Licensing, Authors, and Acknowledgements](#licensing)
+3. [Folder Structure](#folderStructure)
+4. [Feature Engineering](#featureEngineering)
+5. [Modelling](#model)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ### Installation <a name="installation"></a>
 
