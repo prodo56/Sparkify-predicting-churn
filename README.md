@@ -7,6 +7,7 @@
 3. [Folder Structure](#folderStructure)
 4. [Feature Engineering](#featureEngineering)
 5. [Modelling](#model)
+6. [Results](#results)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ### Installation <a name="installation"></a>
@@ -49,6 +50,10 @@ Following models were tried based on the features that were created from the dat
 * Random Forest Classifier
 
 Out of the above models that were tried GBT performs the best, followed by RFC and LR models with 86%, 83% and 79% F1 scores respectively.
+
+### Results <a name="results"></a>
+
+The main findings can be found on the blog post [here](https://medium.com/@pradeep.thalasta/sparkify-user-churn-prediction-c63b7a447d52)
 
 
 ### Licensing, Authors, and Acknowledgements <a name="licensing"></a>
